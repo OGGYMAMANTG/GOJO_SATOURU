@@ -1,3 +1,3 @@
-# with Love @LazyDeveloperr 💘
+# with Love @SOLO_DARE 💘
 # Subscribe YT @LazyDeveloperr - to learn more about this for free...
 
