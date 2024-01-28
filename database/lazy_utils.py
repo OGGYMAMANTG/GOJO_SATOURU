@@ -1,6 +1,6 @@
-    # Credit @LazyDeveloper.
+    # Credit @SOLO_DARE.
     # Please Don't remove credit.
-        # Born to make history @LazyDeveloper !
+        # Born to make history @SOLO_DARE !
 
     # Thank you LazyDeveloper for helping us in this Journey
 
