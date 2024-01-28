@@ -147,9 +147,9 @@ class Database:
     
     # Credit @LazyDeveloper.
     # Please Don't remove credit.
-        # Born to make history @LazyDeveloper ! => Remember this name forever <=
+        # Born to make history @SOLO_DARE ! => Remember this name forever <=
 
-    # Thank you LazyDeveloper for helping us in this Journey
+    # Thank you SOLODARE for helping us in this Journey
     # Just for url Uploading feature
 
     async def set_apply_caption(self, id, apply_caption):
@@ -181,8 +181,8 @@ class Database:
         user = await self.col.find_one({'id': int(id)})
         return user or None
         
-    # Thank you LazyDeveloper for helping us in this Journey
-    # Just for renamer @LazyDeveloper 
+    # Thank you SOLODARE for helping us in this Journey
+    # Just for renamer @SOLO_DARE 
     async def set_thumbnail(self, id, file_id):
         await self.col.update_one({'id': int(id)}, {'$set': {'file_id': file_id}})
         
@@ -195,7 +195,7 @@ class Database:
                 return None
         except Exception as e:
             print(e)
-    # Born to make history @LazyDeveloper ! => Remember this name forever <=
+    # Born to make history @SOLO_DARE ! => Remember this name forever <=
 
     async def set_caption(self, id, caption):
         await self.col.update_one({'id': int(id)}, {'$set': {'caption': caption}})
