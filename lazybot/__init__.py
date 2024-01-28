@@ -1,11 +1,11 @@
-    # Credit @LazyDeveloper.
+    # Credit @SOLO_DARE.
     # Please Don't remove credit.
-    # Born to make history @LazyDeveloper !
+    # Born to make history @SOLO_DARE !
 
     # Thank you LazyDeveloper for helping us in this Journey
-    # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
+    # 🥰  Thank you for giving me credit @SOLO_DARE  🥰
 
-    # for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
+    # for any error please contact me -> telegram@SOLO_DARE or insta @_IR__ASH_ 
 import logging
 import logging.config
 logging.config.fileConfig('logging.conf')
